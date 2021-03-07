@@ -3,6 +3,12 @@ body {
     color: white;
 }
 
+nav {
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+}
+
 @media screen and (min-width: 900px) {
     body {
         background-color: white;
